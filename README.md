@@ -1,5 +1,5 @@
 # ScoreUpdate
-When the score of courses is announced, it will mail you
+When the score of courses is announced, it will mail you.
 
 ## Environment
 - requests 2.22.0
@@ -12,4 +12,5 @@ When the score of courses is announced, it will mail you
 
 ## Note
 Before uses the tool, you need to allow the setting below.
+
 https://myaccount.google.com/lesssecureapps
